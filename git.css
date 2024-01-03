@@ -4,3 +4,7 @@ div{
 img{
     width: 200px;
 }
+*{
+    margin-top: 0%;
+    padding: 0%;
+}
